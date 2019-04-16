@@ -9,8 +9,8 @@ class ByPassApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(primarySwatch: Colors.green, backgroundColor: Colors.white),
-      home: 
-      LogInPage(),
+      home: LogInPage(),
+      
     );
   }
 }
